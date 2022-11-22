@@ -1,0 +1,76 @@
+/*
+ * Q2: 
+ */
+
+.Q1 {
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.boldRowCell {
+  flex: 1;
+  border: 1px solid black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.longBoldRowCell {
+  flex: 3;
+  border: 1px solid black;
+  font-weight: bold;
+  text-align: center;
+}
+
+.rowCell {
+  flex: 1;
+  border: 1px solid black;
+  text-align: center;
+}
+
+.longRowCell {
+  flex: 3;
+  border: 1px solid black;
+  text-align: center;
+}
+
+/*
+ * Q2: 
+ */
+.Q2 {
+  margin-top: 60px;
+}
+
+.search-bar {
+  width: 400px;
+  height: 36px;
+  border: 1px solid rgb(192, 192, 192);
+  border-radius: 18px;
+  padding-left: 10px;
+  padding-right: 10px;
+  font-size: 16px;
+}
+
+/*
+ * Q3: 
+ */
+.Q3 {
+  margin-top: 60px;
+}
+
+.unordered-list {
+  margin-top: 30px;
+}
+
+/*
+ * Q4: 
+ */
+.Q4 {
+  margin-top: 60px;
+}
